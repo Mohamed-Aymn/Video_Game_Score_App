@@ -1,0 +1,68 @@
+userProfile
+	updatestate not running imediately?
+		loading page untill it updates the state?
+	map is the problem?
+	setstate in different components in the problem?
+
+modify data by generator
+
+create new
+	type valid input in case of wrong one ( same name exists, regex for email field )
+	user created message
+
+update
+	title shouldn't be changed while updating the user
+	update done message
+	type valid input in case of wrong one ( same name exists, regex for email field )
+	
+delete issue
+
+	new home page ui, then finish layout style and take care of height of users ( style hight in a clean
+way -mathematically no visually- )
+
+loading style
+
+put several setStates in an object for clean code purposes
+
+search
+	'bla bla blaa' Not Found
+https://www.youtube.com/watch?v=wxz5vJ1BWrc
+https://youtu.be/MY6ZZIn93V8
+
+sometimes it is hanged on loading in all components ( this happens while reloading the webpage
+when iam in updata user component, but reload from anywhere else is safe )
+
+page not found in case of wrong url navigation
+hide number of games played will hide ( played n games )
+style
+	make it all 100vh
+	make it all have same width and all content are on the same border with horizontal line
+	scroll bar style
+
+---------------------------------------------------
+- what is learned 
+
+all files router files must be put in main router countainer 
+
+routes and link must be in the same component in the main router contailer only
+
+it doesn't matter how I divide my content in components except of clean code ( this tip if talking
+about content components no page hirarchy components ), it will only matter while sharing state
+between components
+
++ tips in paper ( important ) then draw a time line building a react website process and the details
+of thinking in react
+
+generate fake data instead on wasting time: https://www.mockaroo.com/
+
+try react router second experment while useing useEffect ( hiding parent content )
+
+the tip of brackets that will invoke the  fucntion automatically in this video at min 2:20
+ref: https://www.youtube.com/watch?v=0XSDAup85SA
+
+clean the console from errors
+
+the way i typed the notepad hirarchy and the diff between routes and content
+
+POST means "create new" as in "Here is the input for creating a user, create it for me". PUT means 
+"insert, replace if already exists"
