@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "address": "UK",
+      "status": "Inactive",
+      "gamesNumber": "55",
+      "id": 1
+    },
+    {
+      "name": "Paul",
+      "email": "paul@gmail.com",
+      "address": "USA",
+      "status": "Inactive",
+      "gamesNumber": "40",
+      "id": 5
+    },
+    {
+      "name": "Kim",
+      "email": "kim@gmail.com",
+      "address": "USA",
+      "status": "Inactive",
+      "gamesNumber": "30",
+      "id": 4
+    },
+    {
+      "name": "Mark",
+      "email": "mark@gmail.com",
+      "address": "England",
+      "id": 3,
+      "status": "Active",
+      "gamesNumber": "90"
+    },
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "address": "UK",
+      "id": 2,
+      "status": "Inactive",
+      "gamesNumber": "15"
+    },
+    {
+      "name": "Ronald",
+      "email": "ronald@gmail.com",
+      "address": "Poland",
+      "status": "Active",
+      "gamesNumber": "5",
+      "id": 7
+    },
+    {
+      "name": "Allen",
+      "email": "allen@gmail.com",
+      "address": "Brazil",
+      "id": 6,
+      "status": "Active",
+      "gamesNumber": "4"
+    },
+    {
+      "name": "Lucas",
+      "email": "lucas@gmail.com",
+      "address": "Austria",
+      "id": 8,
+      "status": "Active",
+      "gamesNumber": "2"
+    },
+    {
+      "name": "Ash",
+      "email": "ash@gmail.com",
+      "address": "Austria",
+      "id": 10,
+      "status": "Active",
+      "gamesNumber": "70"
+    },
+    {
+      "name": "Ted",
+      "email": "ted@gmail.com",
+      "address": "UK",
+      "id": 9,
+      "status": "Inactive",
+      "gamesNumber": "80"
+    }
+  ]
+}
